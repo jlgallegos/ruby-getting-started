@@ -1,3 +1,5 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 # ruby-getting-started
 
 A barebones Rails app, which can easily be deployed to Heroku.
